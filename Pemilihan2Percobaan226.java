@@ -18,5 +18,6 @@ public class Pemilihan2Percobaan226 {
                 System.out.println("Segitiga tersebut adalah bukan segitiga siku-siku");
         } else
             System.out.println("Bukan Segitiga");
+            
     }
 }
